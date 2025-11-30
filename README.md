@@ -24,12 +24,18 @@
 
 ---
 
-## 📦 Installation via package.json
+## Example package.json
 
-### Using `@whiskeysockets/baileys`
+### Via `package.json` Fork Baileys (NPM)
+@whiskeysockets/baileys
 ```json
-{
-  "dependencies": {
-    "@whiskeysockets/baileys": "npm:vyzen-baileysx"
-  }
+"dependencies": {
+  "@whiskeysockets/baileys": "npm:vyzen-baileysx"
 }
+```
+@adiwajsing/baileys
+```json
+"dependencies": {
+  "@adiwajshing/baileys": "npm:vyzen-baileysx"
+}
+```
