@@ -5,7 +5,7 @@
 <img src="https://files.catbox.moe/upcruu.jpg" width="300"/>
 
 <!-- Animasi Teks Bergerak -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Baileys+X+Multi-Device;WhatsApp+Bot+Simple+Fast+Powerful;Vyzen+Baileysx+Official+Fork" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Vyzen+Baileysx+Official;Advanced+Baileys+Multi-Device+Framework;Fast%2C+Stable%2C+Customizable;Empowering+WhatsApp+Bot+Developers" />
 
 <!-- Badge -->
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
@@ -24,11 +24,9 @@
 
 ---
 
-## Example package.json
+## 📦 Installation via package.json
 
-### Via `package.json` Fork Baileys (NPM)
-
-**@whiskeysockets/baileys**
+### Using `@whiskeysockets/baileys`
 ```json
 {
   "dependencies": {
