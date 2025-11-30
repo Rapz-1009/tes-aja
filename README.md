@@ -4,10 +4,10 @@
 
 <img src="https://files.catbox.moe/upcruu.jpg" width="300"/>
 
-<!-- Animasi Teks Bergerak -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1200&color=007BFF&center=true&vCenter=true&width=700&lines=tuhan+jika+aku+tidak+pantas+dicintai;tolong+jangan+membuatku+mencintai+seseorang" />
 
-<!-- Badge -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1200&color=FF69B4&center=true&vCenter=true&width=700&lines=rumahmu+dimana%3F;gua+mau+kesana;disana+ada+siapa%3F;kalo+sepi+main+sama+gua;ah%2C+atas+bawah+cantik;huh%2C+putar+badan+dikit;ah%2C+goyang+tipis-tipis" />
+
+
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
   
   <a href="https://whatsapp.com/channel/0029Vb6CHAjK5cDJGJssog3J">
